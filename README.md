@@ -21,7 +21,6 @@ Proje, önceden işlenmiş **MIT-BIH Aritmi Veri Setini** kullanmaktadır:
 - `Y` → Atım etiketleri (ANSI/AAMI EC57 standardı)
 
 > ⚠️ Boyut kısıtlamaları nedeniyle, ham veri seti **Bu depoda yer almamaktadır**.
-[PhysioNet MIT-BIH Aritmi Veritabanı](https://physionet.org/content/mitdb/1.0.0/) adresinden indirebilirsiniz.
 
 ---
 
