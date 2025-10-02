@@ -1,0 +1,11 @@
+# Edit these to match your environment
+database:
+  host: "localhost"
+  user: "admin"
+  password: "?BIb9!7xGn4>"
+  database: "ai_prediction_app"
+
+# Optional: override saved model directories (relative to project root)
+arr_saved_model_path: "C:/Users/hp/Documents/MATLAB/INOVATIM_BOTH_CLEAN/Python/models/arrhythmia_saved_model"
+bin_saved_model_path: "C:/Users/hp/Documents/MATLAB/INOVATIM_BOTH_CLEAN/Python/models/binary_saved_model"
+
